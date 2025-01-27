@@ -1,4 +1,4 @@
-<img src="[https://media.licdn.com/dms/image/v2/D4D16AQGHLVQxHD5bQw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737988951889?e=1743638400&v=beta&t=TqUntu7aAF_UgDE1clsN8gRpyH9PKStlUECqwwv5ZZU](https://www.canva.com/design/DAGdblAcxgA/96hf1qZtNqUFn55w3nayTw/edit?utm_content=DAGdblAcxgA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGHLVQxHD5bQw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737988951889?e=1743638400&v=beta&t=TqUntu7aAF_UgDE1clsN8gRpyH9PKStlUECqwwv5ZZU"/>
 
 <h1>Hi 👋, I'm Belal Mohamed</h1>
 <p>*💻 Profession: Front-End Developer <br>*🎓 Education: Fourth-year student at the Faculty of Commerce, majoring in Business Information Systems (BIS) <br>*🌍 Location: Cairo, Egypt</p>
