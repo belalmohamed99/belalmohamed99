@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/waving-hand_1f44b.png" width="28px" style="vertical-align:middle;"> I'm Belal Mohamed
+  Hi <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="32px" style="vertical-align:middle;">, I'm Belal Mohamed
 </h1>
 <p align="center">🚀 Aspiring Full Stack Developer | Angular & Node.js Enthusiast</p>
 
