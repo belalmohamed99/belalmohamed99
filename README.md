@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="100px" alt="Waving Hand" />
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200px" alt="Waving Hand" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Belal Mohamed</h1>
