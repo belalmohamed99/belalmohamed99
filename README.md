@@ -1,20 +1,6 @@
 <h1 align="center">
-  Hi <span style="display: inline-block; animation: wave 1.5s infinite;">👋</span>, I'm Belal Mohamed
+  Hi <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/waving-hand_1f44b.png" width="28px" style="vertical-align:middle;"> I'm Belal Mohamed
 </h1>
-
-<!-- Add animation as embedded style using <style> -->
-<style>
-@keyframes wave {
-  0% { transform: rotate(0.0deg); }
-  10% { transform: rotate(14.0deg); }
-  20% { transform: rotate(-8.0deg); }
-  30% { transform: rotate(14.0deg); }
-  40% { transform: rotate(-4.0deg); }
-  50% { transform: rotate(10.0deg); }
-  60% { transform: rotate(0.0deg); }
-  100% { transform: rotate(0.0deg); }
-}
-</style>
 <p align="center">🚀 Aspiring Full Stack Developer | Angular & Node.js Enthusiast</p>
 
 ---
