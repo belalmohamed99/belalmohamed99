@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300" alt="coding gif" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="coding animation" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Belal Mohamed</h1>
