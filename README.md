@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200px" alt="Waving Hand" />
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300" alt="coding gif" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Belal Mohamed</h1>
@@ -57,10 +57,10 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/belalmohamed99/" target="_blank">
+  <a href="https://www.linkedin.com/in/belal-mohamed-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:belalmohamed99@gmail.com">
+  <a href="mailto:belal2003mohamed@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/belalmohamed99" target="_blank">
