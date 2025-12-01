@@ -1,9 +1,12 @@
-<div align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="coding animation" />
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Belal Mohamed</h1>
-<p align="center">🚀 Aspiring Full Stack Developer | Angular & .NET Enthusiast</p>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=550&lines=Front-End+Developer;Full+Stack+Developer;Angular+%26+.NET+Enthusiast)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -67,3 +70,5 @@
     <img src="https://img.shields.io/badge/GitHub-171515.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/MoatazEssam/MoatazEssam/output/snake.svg" alt="Snake animation" />
