@@ -1,10 +1,8 @@
-
-
-<h1 align="center">Hi 👋, I'm Belal Mohamed</h1>
+<h1 align="center">Hi there , I'm Belal Mohamed ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=800&pause=300&color=F7DF1E&width=600&lines=Crafting+Modern+Web+Experiences;Angular+%26+.NET;Full+Stack+Path)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F7DF1E&width=600&lines=Crafting+Modern+Web+Experiences;Angular+%26+.NET;Full+Stack+Path)](https://git.io/typing-svg)
 
 </div>
 
